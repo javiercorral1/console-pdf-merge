@@ -1,0 +1,14 @@
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\bin\Debug\net8.0\J_PDF_Merge.exe
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\bin\Debug\net8.0\J_PDF_Merge.deps.json
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\bin\Debug\net8.0\J_PDF_Merge.runtimeconfig.json
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\bin\Debug\net8.0\J_PDF_Merge.dll
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\bin\Debug\net8.0\J_PDF_Merge.pdb
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.AssemblyInfoInputs.cache
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.AssemblyInfo.cs
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.csproj.CoreCompileInputs.cache
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.dll
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\refint\J_PDF_Merge.dll
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.pdb
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.genruntimeconfig.cache
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\ref\J_PDF_Merge.dll

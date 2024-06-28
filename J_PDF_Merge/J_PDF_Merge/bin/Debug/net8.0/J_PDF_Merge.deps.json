@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "J_PDF_Merge/1.0.0": {
+        "runtime": {
+          "J_PDF_Merge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "J_PDF_Merge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

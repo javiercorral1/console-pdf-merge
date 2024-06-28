@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javie\\SoftwareProjects\\console-pdf-merge\\J_PDF_Merge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0DFF16-C745-4FB5-AB61-A52CB265B40D}|J_PDF_Merge\\J_PDF_Merge.csproj|c:\\users\\javie\\softwareprojects\\console-pdf-merge\\j_pdf_merge\\j_pdf_merge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0DFF16-C745-4FB5-AB61-A52CB265B40D}|J_PDF_Merge\\J_PDF_Merge.csproj|solutionrelative:j_pdf_merge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0DFF16-C745-4FB5-AB61-A52CB265B40D}|J_PDF_Merge\\J_PDF_Merge.csproj|c:\\users\\javie\\softwareprojects\\console-pdf-merge\\j_pdf_merge\\j_pdf_merge\\j_pdf_merge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD0DFF16-C745-4FB5-AB61-A52CB265B40D}|J_PDF_Merge\\J_PDF_Merge.csproj|solutionrelative:j_pdf_merge\\j_pdf_merge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "J_PDF_Merge",
+              "DocumentMoniker": "C:\\Users\\javie\\SoftwareProjects\\console-pdf-merge\\J_PDF_Merge\\J_PDF_Merge\\J_PDF_Merge.csproj",
+              "RelativeDocumentMoniker": "J_PDF_Merge\\J_PDF_Merge.csproj",
+              "ToolTip": "C:\\Users\\javie\\SoftwareProjects\\console-pdf-merge\\J_PDF_Merge\\J_PDF_Merge\\J_PDF_Merge.csproj",
+              "RelativeToolTip": "J_PDF_Merge\\J_PDF_Merge.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T03:35:55.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\SoftwareProjects\\console-pdf-merge\\J_PDF_Merge\\J_PDF_Merge\\Program.cs",
+              "RelativeDocumentMoniker": "J_PDF_Merge\\Program.cs",
+              "ToolTip": "C:\\Users\\javie\\SoftwareProjects\\console-pdf-merge\\J_PDF_Merge\\J_PDF_Merge\\Program.cs",
+              "RelativeToolTip": "J_PDF_Merge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:35:35.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
