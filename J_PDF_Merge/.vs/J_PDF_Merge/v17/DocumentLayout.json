@@ -18,24 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "J_PDF_Merge",
+              "Title": "J_PDF_Merge.csproj",
               "DocumentMoniker": "C:\\Users\\javie\\SoftwareProjects\\console-pdf-merge\\J_PDF_Merge\\J_PDF_Merge\\J_PDF_Merge.csproj",
               "RelativeDocumentMoniker": "J_PDF_Merge\\J_PDF_Merge.csproj",
               "ToolTip": "C:\\Users\\javie\\SoftwareProjects\\console-pdf-merge\\J_PDF_Merge\\J_PDF_Merge\\J_PDF_Merge.csproj",
               "RelativeToolTip": "J_PDF_Merge\\J_PDF_Merge.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-28T03:35:55.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T03:35:55.714Z"
             },
             {
               "$type": "Document",
@@ -45,10 +40,14 @@
               "RelativeDocumentMoniker": "J_PDF_Merge\\Program.cs",
               "ToolTip": "C:\\Users\\javie\\SoftwareProjects\\console-pdf-merge\\J_PDF_Merge\\J_PDF_Merge\\Program.cs",
               "RelativeToolTip": "J_PDF_Merge\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T03:35:35.698Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

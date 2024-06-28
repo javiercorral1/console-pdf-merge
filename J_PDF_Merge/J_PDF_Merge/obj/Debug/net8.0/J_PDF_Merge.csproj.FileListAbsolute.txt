@@ -12,3 +12,4 @@ C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\De
 C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.pdb
 C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.genruntimeconfig.cache
 C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\ref\J_PDF_Merge.dll
+C:\Users\javie\SoftwareProjects\console-pdf-merge\J_PDF_Merge\J_PDF_Merge\obj\Debug\net8.0\J_PDF_Merge.sourcelink.json
